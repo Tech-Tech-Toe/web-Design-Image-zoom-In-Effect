@@ -1,5 +1,5 @@
 
-## Image Zooming Effect
+# Image Zooming Effect
 This project demonstrates a simple and elegant image zooming effect using HTML and CSS. The effect is activated when the user hovers over the image, creating an engaging and interactive visual experience.
 
 ## Features
